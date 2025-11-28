@@ -9,7 +9,7 @@ An advanced console-based Java project to manage patient records with persistent
 - Data saved in a file (`patients.dat`)  for persistence between runs
  
 ## How to Run
-1. Compile:
+1. Compile: 
    ```bash
    javac src/HealthTrackerApp.java
    ```
